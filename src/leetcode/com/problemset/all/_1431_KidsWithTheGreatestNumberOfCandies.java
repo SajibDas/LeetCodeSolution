@@ -2,7 +2,10 @@ package leetcode.com.problemset.all;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/**
+ * @author Sajib Kr. Das
+ *
+ */
 public class _1431_KidsWithTheGreatestNumberOfCandies {
     
 	/**
